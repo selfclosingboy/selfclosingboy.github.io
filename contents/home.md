@@ -28,12 +28,12 @@ Rotorua Boys High School Majors: Mathmatics, Physics, Chemistry, Geography
 Pompallier Catholi college, Whangārei
 
 ### KEY SKILLS
--Bilingual in English and Chinese
--Customer Service
--PowerPoint, Word & Excel
--Matlab, Python
--CSS, HTML
--Exceptional communication and interpersonal skills
--Oracle SQL, C, C++
-
+-Bilingual in English and Chinese  
+-Customer Service  
+-PowerPoint, Word & Excel  
+-Matlab, Python  
+-CSS, HTML  
+-Exceptional communication and interpersonal skills  
+-Oracle SQL, C, C++  
+ 
 
