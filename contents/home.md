@@ -1,16 +1,39 @@
 
+### OBJECTIVE
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+I am a gentle and easy-going person who enjoys collaborating with others and making new friends. I take my work seriously and have a passion for learning. I proactively seek opportunities to enhance my knowledge and humbly seek advice from others. I believe in a mutual learning process between work and study, continuously accumulating experiences.
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am enthusiastic about helping others and have valuable experience in the workplace, managing my time effectively to ensure it doesn't conflict with other commitments. I hope to contribute to my workplace and help others while expanding my knowledge and making new connections.
+
+
+### Contect
 
 #### Email
-sli[at]cumt.edu.cn
+zpyzhao123@gmail.com
 
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Phone number
+0275940324
 
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Address
+18 Saint Martins Lane Grafton, Auckland 1010
+
+
+### Education
+Auckland University of Technology Majors: Digital Services
+
+UNIVERSITY OF AUCKLAND Majors: Mathematical and Computer Science 
+
+Rotorua Boys High School Majors: Mathmatics, Physics, Chemistry, Geography 
+
+Pompallier Catholi college, Whangārei
+
+### KEY SKILLS
+-Bilingual in English and Chinese
+-Customer Service
+-PowerPoint, Word & Excel
+-Matlab, Python
+-CSS, HTML
+-Exceptional communication and interpersonal skills
+-Oracle SQL, C, C++
+
 
