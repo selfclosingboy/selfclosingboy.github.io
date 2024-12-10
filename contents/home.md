@@ -21,11 +21,11 @@ zpyzhao123@gmail.com
 ### Education
 Auckland University of Technology Majors: Digital Services
 
-UNIVERSITY OF AUCKLAND Majors: Mathematical and Computer Science 
+University of Auckland Majors: Mathematical and Computer Science 
 
 Rotorua Boys High School Majors: Mathmatics, Physics, Chemistry, Geography 
 
-Pompallier Catholi college, Whangārei
+Pompallier Catholic college, Whangārei
 
 ### KEY SKILLS
 -Bilingual in English and Chinese  
